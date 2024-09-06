@@ -1,6 +1,4 @@
-## **README.md**
-
-### **Lighthouse Cafe**
+## **Lighthouse Cafe**
 
 **Project Description:**
 
@@ -31,11 +29,11 @@ Lighthouse Cafe is a web application built using PHP that allows users to order 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/lighthouse-cafe.git
+   git clone https://github.com/rishabhrm/lighthouse-cafe.git
    ```
 2. **Set up Database:**
-   - Create a new database and import the provided `database.sql` file.
-   - Update the database connection details in the `config.php` file.
+   - Create a new database and import the provided `project_db.sql` file.
+   - Update the database connection details in the `connection.php` file.
 3. **Run the Application:**
    - Access the application's index file (e.g., `index.php`) in your web browser.
 
@@ -52,10 +50,6 @@ Lighthouse Cafe is a web application built using PHP that allows users to order 
 
 Contributions are welcome! Please feel free to fork the repository and submit pull requests.
 
-**License:**
-
-[]
-
 **Additional Notes:**
 
 * For more detailed information, refer to the project's documentation or comments within the code.
@@ -63,8 +57,26 @@ Contributions are welcome! Please feel free to fork the repository and submit pu
 
 **Screenshots:**
 
-[]
+![alt text](https://github.com/rishabhrm/lighthouse-cafe/blob/main/screenshots/screenshot-1.png)
 
-**Live Demo:**
+![alt text](https://github.com/rishabhrm/lighthouse-cafe/blob/main/screenshots/screenshot-2.png)
 
-[]
+![alt text](https://github.com/rishabhrm/lighthouse-cafe/blob/main/screenshots/screenshot-3.png)
+
+![alt text](https://github.com/rishabhrm/lighthouse-cafe/blob/main/screenshots/screenshot-4.png)
+
+![alt text](https://github.com/rishabhrm/lighthouse-cafe/blob/main/screenshots/screenshot-5.png)
+
+![alt text](https://github.com/rishabhrm/lighthouse-cafe/blob/main/screenshots/screenshot-6.png)
+
+![alt text](https://github.com/rishabhrm/lighthouse-cafe/blob/main/screenshots/screenshot-7.png)
+
+![alt text](https://github.com/rishabhrm/lighthouse-cafe/blob/main/screenshots/screenshot-8.png)
+
+![alt text](https://github.com/rishabhrm/lighthouse-cafe/blob/main/screenshots/screenshot-9.png)
+
+![alt text](https://github.com/rishabhrm/lighthouse-cafe/blob/main/screenshots/screenshot-10.png)
+
+![alt text](https://github.com/rishabhrm/lighthouse-cafe/blob/main/screenshots/screenshot-11.png)
+
+![alt text](https://github.com/rishabhrm/lighthouse-cafe/blob/main/screenshots/screenshot-12.png)
